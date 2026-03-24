@@ -1,4 +1,4 @@
-# DistributedFileSync
+# Sistema de Nodos Compartidos
 
 Sistema distribuido que simula un administrador de archivos compartido en Java utilizando Sockets bajo un modelo Cliente-Servidor múltiple. Los nodos pueden conectarse entre sí, compartir archivos y mantener sincronizado su contenido.
 
